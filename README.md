@@ -12,7 +12,7 @@
 <body style=" background-color: rgb(22, 198, 98); ">
     <h1 style="color:blue; text-align: center; ">BACCHON KA SANSAR</h1>
     I
-    <img src="baba.jpg" height="30% " width="30% " alt="image not found ">
+    <img src="myimage.jpg" height=" 70% " width="60% " alt="image not found ">
     <nav>
         <a href="# ">Home &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         </a>
@@ -37,8 +37,7 @@
         <section>
             <h2 style="text-align:center ; "> Ankit kae cartoon</h2>
 
-            <iframe width="33% " height="70% " src="https://www.youtube.com/embed/hJfVVfSkjm8 " title="Motu Patlu | मोटू पतलू S1 | Boxing Gloves | Episode 215 Part 2 | Download Voot Kids App " frameborder="0 " allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture " allowfullscreen></iframe></iframe>
+
             <iframe width="33% " height="70% " src="https://www.youtube.com/embed/aDlBLdZg0gE " title="Vikram aur Munja cartoon big magic new episode || The adventures of King Vikramaditya Disney XD " frameborder="0 " allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture " allowfullscreen></iframe>
             <iframe width="33% " height="70% " src="https://www.youtube.com/embed/nDxBQCo4Y08 " title="🔴LIVE Jungle Book Season 3 | New Episode 5 अफवाह - The Rumor | हिंदी कहानिया | " frameborder="0 " allow="accelerometer; autoplay; clipboard-write;
